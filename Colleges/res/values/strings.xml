@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colleges</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ComputerScience">کامپیوتر ساینس</string>
+    <string name="Medical">طب</string>
+    <string name="computerscience">ComputerScience</string>
+    <string name="medicine">Medicine</string>
+    <string name="engineering">Engineering</string>
+    <string name="literature">Literature</string>
+    <string name="socialscience">SocialScience</string>
+    <string name="cultivation">Cultivation</string>
+    <string name="soclology">Soclology</string>
+    <string name="law">Law</string>
+    <string name="edarehama">edarehAma</string>
+    <string name="honarha">Honarha</string>
+    <string name="zhornalizm">Zhornalizm</string>
+    <string name="back">Back</string>
+
+</resources>
